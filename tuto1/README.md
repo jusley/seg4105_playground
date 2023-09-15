@@ -1,9 +1,7 @@
 # Personal Info
 
 Name: Jusley Xavier AMANI MUTANGANA  
-
 ID: 300094632  
-
 Email: jaman037@uottawa.ca
 
 # Submission
