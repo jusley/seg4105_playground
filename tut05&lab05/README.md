@@ -45,3 +45,11 @@
 ### Winning Pitch
 
 The winning pitch is the "Live Chat Support for Cannabis Delivery Platform." The pitch effectively addresses the niche requirement of providing quick and effective communication for customers in the cannabis delivery industry, emphasizing the need for trust and reassurance. The proposed solution of a simple live chat feature within a 2-week timeline, along with its various components like pre-defined scripts, chat history, and user rating capability, efficiently targets the identified problem. The concise timeline and focused approach make it a strong contender for the winning pitch.
+
+### Minute Taking
+
+**Trello:** Trello is a project management tool that can help shape and organize project ideas and plans. It utilizes boards, lists, and cards to manage tasks, and it's highly effective for visualizing the progress of a project and tracking various stages of development.
+
+### Betting
+
+**Stormboard:** Stormboard is a collaborative online brainstorming and planning tool designed to help teams capture and organize ideas, documents, images, and sticky notes. It allows for real-time collaboration and is suitable for agile project management and other collaborative activities.
