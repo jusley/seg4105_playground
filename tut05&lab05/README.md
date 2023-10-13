@@ -48,8 +48,14 @@ The winning pitch is the "Live Chat Support for Cannabis Delivery Platform." The
 
 ### Minute Taking
 
-**Trello:** Trello is a project management tool that can help shape and organize project ideas and plans. It utilizes boards, lists, and cards to manage tasks, and it's highly effective for visualizing the progress of a project and tracking various stages of development.
+**Google Docs:** Google Docs provides a collaborative platform for creating and sharing documents, including meeting minutes. Its commenting feature allows team members to provide input and feedback on the minutes, ensuring comprehensive and efficient minute taking.
+
 
 ### Betting
 
 **Stormboard:** Stormboard is a collaborative online brainstorming and planning tool designed to help teams capture and organize ideas, documents, images, and sticky notes. It allows for real-time collaboration and is suitable for agile project management and other collaborative activities.
+
+
+### Meetings
+
+**Microsoft Teams:** Microsoft Teams is a communication and collaboration platform that facilitates online meetings, video conferencing, and chat. It enables seamless virtual meetings and provides features for scheduling, conducting, and recording meetings, making it a suitable choice for managing project meetings.
