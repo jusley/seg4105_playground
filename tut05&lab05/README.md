@@ -59,3 +59,6 @@ The winning pitch is the "Live Chat Support for Cannabis Delivery Platform." The
 ### Meetings
 
 **Microsoft Teams:** Microsoft Teams is a communication and collaboration platform that facilitates online meetings, video conferencing, and chat. It enables seamless virtual meetings and provides features for scheduling, conducting, and recording meetings, making it a suitable choice for managing project meetings.
+
+### meet every tuesday
+
